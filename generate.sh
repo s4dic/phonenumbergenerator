@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Change this code:
-numberstartcode=07
+numberstartcode=06
 
 #Init to 00000000
 num1=00;num2=00;num3=00;num4=00
